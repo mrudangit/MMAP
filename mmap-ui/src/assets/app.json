@@ -1,0 +1,13 @@
+{
+  "startup_app": {
+    "autoShow": true,
+    "name": "memory-map-gui-test",
+    "saveWindowState": false,
+    "url": "http://localhost:4200/index.html",
+    "uuid": "memory-map-gui-test"
+  },
+  "runtime": {
+    "arguments": "--no-sandbox",
+    "version": "16.83.53.26"
+  }
+}

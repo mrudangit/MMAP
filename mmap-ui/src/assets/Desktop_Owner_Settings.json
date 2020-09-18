@@ -1,0 +1,20 @@
+{
+  "applicationSettings": {
+    "http://localhost:4200/assets/app.json": {
+      "mappedFiles": {
+        "indexFile": {
+          "path": "C:/MMAP/index.dat",
+          "access": "READ_WRITE_EXTEND"
+        },
+        "dataFle": {
+          "path": "C:/MMAP/data.dat",
+          "access": "READ_WRITE_EXTEND"
+        },
+        "metaDataFile": {
+          "path": "C:/MMAP/metadata.dat",
+          "access": "READ_WRITE_EXTEND"
+        }
+      }
+    }
+  }
+}
